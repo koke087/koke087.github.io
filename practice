@@ -1,0 +1,6 @@
+git clone https://github.com/koke087/koke087.github.io
+cd koke087.github.io
+echo ''Hello World'' > index.html
+git add --all
+git commit -m ''Initial commit''
+git push -u origin main
